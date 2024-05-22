@@ -1,0 +1,24 @@
+{
+  "name": "react-state-eightball",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwelkener/react-state-eightball.git"
+  },
+  "keywords": [
+    "react",
+    "state",
+    "eightball"
+  ],
+  "author": "John Welkener",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwelkener/react-state-eightball/issues"
+  },
+  "homepage": "https://github.com/jwelkener/react-state-eightball#readme"
+}
